@@ -1,0 +1,414 @@
+%!Adobe-FontList 1.22
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KBO-Dia-Gothic-Bold
+FamilyName:KBO Dia Gothic
+StyleName:Bold
+FullName:KBO Dia Gothic Bold
+MenuName:KBO 다이아고딕 Bold
+StyleBits:0
+FamilyNameNative:KBO 다이아고딕
+StyleNameNative:Bold
+FullNameNative:KBO 다이아고딕 Bold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO Dia Gothic_bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:507200
+FileModTime:1678759946
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,KBO Dia Gothic Bold
+NameArray:0,Mac,4,KBO Dia Gothic Bold
+NameArray:3,Mac,4,KBO 다이아고딕 Bold
+NameArray:3,Mac,18,KBO 다이아고딕 Bold
+NameArray:0,Win,1,KBO Dia Gothic Bold
+NameArray:0,Win,16,KBO Dia Gothic
+NameArray:3,Win,1,KBO 다이아고딕 Bold
+NameArray:3,Win,16,KBO 다이아고딕
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KBO-Dia-Gothic-Bold
+FamilyName:KBO Dia Gothic
+StyleName:Bold
+FullName:KBO Dia Gothic Bold
+MenuName:KBO 다이아고딕 Bold
+StyleBits:0
+FamilyNameNative:KBO 다이아고딕
+StyleNameNative:Bold
+FullNameNative:KBO 다이아고딕 Bold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO Dia Gothic_bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1180456
+FileModTime:1678759946
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,KBO Dia Gothic Bold
+NameArray:0,Mac,4,KBO Dia Gothic Bold
+NameArray:3,Mac,4,KBO 다이아고딕 Bold
+NameArray:3,Mac,18,KBO 다이아고딕 Bold
+NameArray:0,Win,1,KBO Dia Gothic Bold
+NameArray:0,Win,16,KBO Dia Gothic
+NameArray:3,Win,1,KBO 다이아고딕 Bold
+NameArray:3,Win,16,KBO 다이아고딕
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KBO-Dia-Gothic-Light
+FamilyName:KBO Dia Gothic
+StyleName:Light
+FullName:KBO Dia Gothic Light
+MenuName:KBO 다이아고딕 Light
+StyleBits:0
+FamilyNameNative:KBO 다이아고딕
+StyleNameNative:Light
+FullNameNative:KBO 다이아고딕 Light
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO Dia Gothic_light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:434404
+FileModTime:1678759946
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,KBO Dia Gothic Light
+NameArray:0,Mac,4,KBO Dia Gothic Light
+NameArray:3,Mac,4,KBO 다이아고딕 Light
+NameArray:3,Mac,18,KBO 다이아고딕 Light
+NameArray:0,Win,1,KBO Dia Gothic Light
+NameArray:0,Win,16,KBO Dia Gothic
+NameArray:3,Win,1,KBO 다이아고딕 Light
+NameArray:3,Win,16,KBO 다이아고딕
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KBO-Dia-Gothic-Light
+FamilyName:KBO Dia Gothic
+StyleName:Light
+FullName:KBO Dia Gothic Light
+MenuName:KBO 다이아고딕 Light
+StyleBits:0
+FamilyNameNative:KBO 다이아고딕
+StyleNameNative:Light
+FullNameNative:KBO 다이아고딕 Light
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO Dia Gothic_light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1157144
+FileModTime:1678759946
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,KBO Dia Gothic Light
+NameArray:0,Mac,4,KBO Dia Gothic Light
+NameArray:3,Mac,4,KBO 다이아고딕 Light
+NameArray:3,Mac,18,KBO 다이아고딕 Light
+NameArray:0,Win,1,KBO Dia Gothic Light
+NameArray:0,Win,16,KBO Dia Gothic
+NameArray:3,Win,1,KBO 다이아고딕 Light
+NameArray:3,Win,16,KBO 다이아고딕
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KBO-Dia-Gothic-Medium
+FamilyName:KBO Dia Gothic
+StyleName:Medium
+FullName:KBO Dia Gothic Medium
+MenuName:KBO 다이아고딕 Medium
+StyleBits:0
+FamilyNameNative:KBO 다이아고딕
+StyleNameNative:Medium
+FullNameNative:KBO 다이아고딕 Medium
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO Dia Gothic_medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:455600
+FileModTime:1678759946
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,KBO Dia Gothic Medium
+NameArray:0,Mac,4,KBO Dia Gothic Medium
+NameArray:3,Mac,4,KBO 다이아고딕 Medium
+NameArray:3,Mac,18,KBO 다이아고딕 Medium
+NameArray:0,Win,1,KBO Dia Gothic Medium
+NameArray:0,Win,16,KBO Dia Gothic
+NameArray:3,Win,1,KBO 다이아고딕 Medium
+NameArray:3,Win,16,KBO 다이아고딕
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KBO-Dia-Gothic-Medium
+FamilyName:KBO Dia Gothic
+StyleName:Medium
+FullName:KBO Dia Gothic Medium
+MenuName:KBO 다이아고딕 Medium
+StyleBits:0
+FamilyNameNative:KBO 다이아고딕
+StyleNameNative:Medium
+FullNameNative:KBO 다이아고딕 Medium
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO Dia Gothic_medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1163272
+FileModTime:1678759946
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,KBO Dia Gothic Medium
+NameArray:0,Mac,4,KBO Dia Gothic Medium
+NameArray:3,Mac,4,KBO 다이아고딕 Medium
+NameArray:3,Mac,18,KBO 다이아고딕 Medium
+NameArray:0,Win,1,KBO Dia Gothic Medium
+NameArray:0,Win,16,KBO Dia Gothic
+NameArray:3,Win,1,KBO 다이아고딕 Medium
+NameArray:3,Win,16,KBO 다이아고딕
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO-Dia-Gothic_bold.woff
+FileModTime:1678759946
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO-Dia-Gothic_light.woff
+FileModTime:1678759946
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\포트폴리오\개인사이트\Font\KBO-Dia-Gothic_medium.woff
+FileModTime:1678759946
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NPS-font-Bold
+FamilyName:NPS font
+StyleName:Bold
+FullName:NPS font Bold
+MenuName:국민연금체 Bold
+StyleBits:0
+FamilyNameNative:국민연금체
+StyleNameNative:Bold
+FullNameNative:국민연금체 Bold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\NPSfont_bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:659660
+FileModTime:1711513850
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,NPS font Bold
+NameArray:0,Mac,4,NPS font Bold
+NameArray:3,Mac,4,국민연금체 Bold
+NameArray:3,Mac,18,국민연금체 Bold
+NameArray:0,Win,1,NPS font Bold
+NameArray:0,Win,16,NPS font
+NameArray:3,Win,1,국민연금체 Bold
+NameArray:3,Win,16,국민연금체
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NPS-font-Bold
+FamilyName:NPS font
+StyleName:Bold
+FullName:NPS font Bold
+MenuName:국민연금체 Bold
+StyleBits:0
+FamilyNameNative:국민연금체
+StyleNameNative:Bold
+FullNameNative:국민연금체 Bold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\NPSfont_bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1839168
+FileModTime:1722480302
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,NPS font Bold
+NameArray:0,Mac,4,NPS font Bold
+NameArray:3,Mac,4,국민연금체 Bold
+NameArray:3,Mac,18,국민연금체 Bold
+NameArray:0,Win,1,NPS font Bold
+NameArray:0,Win,16,NPS font
+NameArray:3,Win,1,국민연금체 Bold
+NameArray:3,Win,16,국민연금체
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NPS-font-ExtraBold
+FamilyName:NPS font
+StyleName:ExtraBold
+FullName:NPS font ExtraBold
+MenuName:국민연금체 ExtraBold
+StyleBits:0
+FamilyNameNative:국민연금체
+StyleNameNative:ExtraBold
+FullNameNative:국민연금체 ExtraBold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\NPSfont_extrabold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:631268
+FileModTime:1711513850
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,NPS font ExtraBold
+NameArray:0,Mac,4,NPS font ExtraBold
+NameArray:3,Mac,4,국민연금체 ExtraBold
+NameArray:3,Mac,18,국민연금체 ExtraBold
+NameArray:0,Win,1,NPS font ExtraBold
+NameArray:0,Win,16,NPS font
+NameArray:3,Win,1,국민연금체 ExtraBold
+NameArray:3,Win,16,국민연금체
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NPS-font-ExtraBold
+FamilyName:NPS font
+StyleName:ExtraBold
+FullName:NPS font ExtraBold
+MenuName:국민연금체 ExtraBold
+StyleBits:0
+FamilyNameNative:국민연금체
+StyleNameNative:ExtraBold
+FullNameNative:국민연금체 ExtraBold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\NPSfont_extrabold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1865052
+FileModTime:1722480304
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,NPS font ExtraBold
+NameArray:0,Mac,4,NPS font ExtraBold
+NameArray:3,Mac,4,국민연금체 ExtraBold
+NameArray:3,Mac,18,국민연금체 ExtraBold
+NameArray:0,Win,1,NPS font ExtraBold
+NameArray:0,Win,16,NPS font
+NameArray:3,Win,1,국민연금체 ExtraBold
+NameArray:3,Win,16,국민연금체
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NPS-font-Regular
+FamilyName:NPS font
+StyleName:Regular
+FullName:NPS font Regular
+MenuName:국민연금체 Regular
+StyleBits:0
+FamilyNameNative:국민연금체
+StyleNameNative:Regular
+FullNameNative:국민연금체 Regular
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\NPSfont_regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:567924
+FileModTime:1711513846
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,NPS font Regular
+NameArray:0,Mac,4,NPS font Regular
+NameArray:3,Mac,4,국민연금체 Regular
+NameArray:3,Mac,18,국민연금체 Regular
+NameArray:0,Win,1,NPS font Regular
+NameArray:0,Win,16,NPS font
+NameArray:3,Win,1,국민연금체 Regular
+NameArray:3,Win,16,국민연금체
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NPS-font-Regular
+FamilyName:NPS font
+StyleName:Regular
+FullName:NPS font Regular
+MenuName:국민연금체 Regular
+StyleBits:0
+FamilyNameNative:국민연금체
+StyleNameNative:Regular
+FullNameNative:국민연금체 Regular
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오\개인사이트\Font\NPSfont_regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1936036
+FileModTime:1722480300
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,NPS font Regular
+NameArray:0,Mac,4,NPS font Regular
+NameArray:3,Mac,4,국민연금체 Regular
+NameArray:3,Mac,18,국민연금체 Regular
+NameArray:0,Win,1,NPS font Regular
+NameArray:0,Win,16,NPS font
+NameArray:3,Win,1,국민연금체 Regular
+NameArray:3,Win,16,국민연금체
+%EndFont
+
